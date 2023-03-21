@@ -5,25 +5,12 @@
     <big>Template repository for creating a new backend Go repo</big>
     <div>
     <br/>
-    <!-- TODO Replace `backend-go-repo-template` with repo name -->
-        <a href="https://github.com/pokt-foundation/backend-go-repo-template/pulse"><img src="https://img.shields.io/github/last-commit/pokt-foundation/backend-go-repo-template.svg"/></a>
-        <a href="https://github.com/pokt-foundation/backend-go-repo-template/pulls"><img src="https://img.shields.io/github/issues-pr/pokt-foundation/backend-go-repo-template.svg"/></a>
-        <a href="https://github.com/pokt-foundation/backend-go-repo-template/issues"><img src="https://img.shields.io/github/issues-closed/pokt-foundation/backend-go-repo-template.svg"/></a>
+        <a href="https://github.com/pokt-foundation/data-warehouse-db/pulse"><img src="https://img.shields.io/github/last-commit/pokt-foundation/data-warehouse-db.svg"/></a>
+        <a href="https://github.com/pokt-foundation/data-warehouse-db/pulls"><img src="https://img.shields.io/github/issues-pr/pokt-foundation/data-warehouse-db.svg"/></a>
+        <a href="https://github.com/pokt-foundation/data-warehouse-db/issues"><img src="https://img.shields.io/github/issues-closed/pokt-foundation/data-warehouse-db.svg"/></a>
     </div>
 </div>
 <br/>
-
-  <!-- TODO Replace this section with a README.md describing the new repo -->
-
-# Instructions For a New Repo
-
-1. Click the `Use this template` button, then click `Create a new repository` to create a new repo with the same file structure as this template.
-2. There are a number of comments marked with `TODO` throughout the repo; go through them all and update as appropriate, then remove the `TODO` comment.
-3. Replace all instances of `backend-go-repo-template` with the name of the new repo.
-4. Update this `README.md`
-5. Profit.
-
-  <!-- TODO Update the nelow section with development instructions (leave the pre-commit section in place) -->
 
 # Development
 
